@@ -18,7 +18,7 @@ So I started to download older versions of python and try to run the code until 
 
 ![image](https://github.com/IDunhill7/BHMEA23-CanYouBreakTheArmor-Writeup/assets/110286932/2d1a74ec-b2a9-4534-9d75-80d19c505712)
 
-When I run it. It removed it self. So I run it again but with ltrace so I get the memort dump :
+When I run it. It removed it self. So I run it again but with ltrace so I get the memory dump :
 
 there was to much going on 
 
